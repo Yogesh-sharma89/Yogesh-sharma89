@@ -6,29 +6,15 @@
 
 
 ## 🌐 Socials:
- <a href="https://x.com/YogeshSharm887">
-  <img src="https://cdn.simpleicons.org/x/white" width="48"/>
-</a>
+ ## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/yogesh-sharma-000361352/">
-  <img src="https://cdn.simpleicons.org/linkedin" width="48"/>
-</a>
-
-<a href="https://www.instagram.com/coder_sharma/">
-  <img src="https://cdn.simpleicons.org/instagram" width="48"/>
-</a>
-
-<a href="https://medium.com/@yogesh.upmanyu">
-  <img src="https://cdn.simpleicons.org/medium/white" width="48"/>
-</a>
-
-<a href="https://www.reddit.com/user/Positive_Course_9065/">
-  <img src="https://cdn.simpleicons.org/reddit" width="48"/>
-</a>
-
-<a href="mailto:nitya.upmanyu@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="48"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-sharma-000361352/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YogeshSharm887)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/coder_sharma/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yogesh.upmanyu)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Positive_Course_9065/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitya.upmanyu@gmail.com)
 
 # 💻 Tech Stack:
  ## Languages
