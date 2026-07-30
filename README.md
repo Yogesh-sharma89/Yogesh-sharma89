@@ -9,7 +9,6 @@
 🔭 I’m currently working on | Developing clean, responsive full-stack applications with MERN and NestJS.<br> 👯 I’m looking to collaborate on | Real-world web projects, full-stack open-source applications, and API development.<br> 🤝 I’m looking for help with | Mastering scalable folder structures, clean code practices, and production-grade database design.<br>🌱 I’m currently learning | Advanced patterns in React, scalable web application architecture, and production deployment strategies.<br>💬 Ask me about | Building RESTful or GraphQL APIs, frontend state management, TypeScript, and Java DSA problems.<br>⚡ Fun fact  | I have definitely spent an entire hour writing complex backend logic, only to realize the bug was a missing letter in an `.env` variable name.<br>
 
 
-## 🌐 Socials:
  ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yogesh-sharma89)
@@ -45,7 +44,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yogesh-sharma89&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=yogesh-sharma89&theme=tokyonight&show_icons=true&hide_border=true"/>
   
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-sharma89&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
