@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yogesh-sharma89&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img src="https://streak-stats.demolab.com/?user=Yogesh-sharma89&theme=github-dark"/>
 </p>
 
 # 📈 Contribution Graph
