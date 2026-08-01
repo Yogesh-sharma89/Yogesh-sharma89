@@ -1,4 +1,4 @@
-## Hi there 👋 I'am Yogesh Sharma and I'm a Full-Stack Software Engineer.
+## Hi there 👋 I'am Yogesh Sharma
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Mobile+Developer;AI+Enthusiast;Problem+Solver;Always+Learning+Something+New" />
